@@ -1,0 +1,12 @@
+Source: freedom-3D-icons
+Section: gnome
+Priority: optional
+Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: freedom-3D-icons
+Architecture: all
+Description: Freedom-3D icon theme
+ A 3D and flat, colorful, and modern theme based on
+ XONE, Kora and Mint-Y.

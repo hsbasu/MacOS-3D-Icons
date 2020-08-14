@@ -1,0 +1,8 @@
+all: buildvariants
+
+buildvariants:
+	@echo "Building the themes"
+	./generate-variants.py
+	
+clean:
+	rm -rf usr
