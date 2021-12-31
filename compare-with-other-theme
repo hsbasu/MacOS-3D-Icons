@@ -62,7 +62,7 @@ if __name__ == '__main__':
         print("Usage: %s local-path foreign-path" % sys.argv[0])
         print("")
         print ("Note: local-path is the path to one directory of this theme")
-        print ("Note: foreign-path is the path to one directory of this theme")
+        print ("Note: foreign-path is the path to one directory of another theme")
         print ("")
         print ("Example: %s usr/share/icons/apps/64 /usr/share/icons/Moka/64x64/apps" % sys.argv[0])
         print ("")
