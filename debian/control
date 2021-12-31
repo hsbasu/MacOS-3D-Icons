@@ -2,8 +2,8 @@ Source: mamolinux-icons
 Section: gnome
 Priority: optional
 Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.5
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.6.0
 
 Package: mamolinux-icons
 Architecture: all

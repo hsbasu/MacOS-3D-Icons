@@ -1,4 +1,4 @@
-# Freedom-3D Icons theme
+# Sucharu Icons theme
 
 Freedom-3D Icons is a [Material Design](https://material.io) theme for GNOME/GTK based desktop environments.
 
