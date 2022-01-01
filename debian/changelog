@@ -1,3 +1,33 @@
+mamolinux-icons (1.0.1) stable; urgency=medium
+
+  * Update debian packaging
+  * Rename theme from freedom to sucharu
+  * Add fullcolour actions from Yaru and Mint-Y
+  * Add source svg for application icons in apps
+  * Add source svg for category icons in categories
+  * Add source svg for devices icons in devices
+  * Add source svg for mimetypes icons in mimetypes
+  * Add source svg for places icons in places
+  * Add source svg for status icons in status
+  * Add list of icons and symlinks and renderer files
+  * Update debian packaging and readme
+  * Directly put all icons in usr instead of building
+    - Use Mint colour as default variant
+    - Provide blue as separate variant
+    - Provide Blue as Aqua
+    - Provide Brown
+    - Provide Green
+    - Provide Grey
+    - Provide Orange
+    - Provide Pink
+    - Provide Purple
+    - Provide Red
+    - Provide Orange as Sand
+    - Provide Green as Teal
+    - Provide Yellow
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Sat, 01 Jan 2022 20:45:29 +0530
+
 mamolinux-icons (1.0.0) stable; urgency=medium
 
   * Initial release. (Closes: #XXXXXX)
