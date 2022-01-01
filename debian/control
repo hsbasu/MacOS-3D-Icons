@@ -3,10 +3,12 @@ Section: gnome
 Priority: optional
 Maintainer: Himadri Sekhar Basu <hsb10@iitbbs.ac.in>
 Build-Depends: debhelper (>= 11)
-Standards-Version: 4.6.0
+Standards-Version: 4.5.0
+Homepage: https://github.com/hsbasu/mamolinux-icons
 
 Package: mamolinux-icons
 Architecture: all
+Depends: ${misc:Depends}
 Description: 3D icon theme for MamoLinux
  A 3D and flat, colorful, and modern theme based on
  XONE, Kora and Mint-Y.
