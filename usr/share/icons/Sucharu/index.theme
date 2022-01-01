@@ -326,5 +326,7 @@ Type=Scalable
 MinSize=8
 MaxSize=128
 
+###################
+
 [Desktop Entry]
 Name[en]=index.theme
