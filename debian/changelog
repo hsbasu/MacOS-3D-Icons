@@ -1,3 +1,20 @@
+mamolinux-icons (1.0.2) stable; urgency=medium
+
+  * Replace symlinks with actual directories
+    - Use separate files and directory for Aqua and Dark-Aqua
+    - Use separate files and directory for Sand and Dark-Sand
+    - Use separate files and directory for Teal and Dark-Teal
+  * Update debian packaging and lintian cleanup
+    - Add misc:Depends and Homepage in control
+    - Update standards version in control
+    - Update upstream contacts and copyright in copyright
+    - Add CC-BY-SA paragraph in copyright
+    - Remove postinst and postrm scripts as they are automatically generated
+    - Remove builddeb override for compression in rules
+  * Fix error while cache generation and typos
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Sun, 02 Jan 2022 00:49:14 +0530
+
 mamolinux-icons (1.0.1) stable; urgency=medium
 
   * Update debian packaging
