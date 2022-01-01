@@ -122,11 +122,11 @@
       <stop
          id="stop844"
          offset="0"
-         stop-color="#64baff" />
+         stop-color="#43d6b5" />
       <stop
          id="stop846"
          offset="1"
-         stop-color="#3689e6" />
+         stop-color="#28bca3" />
     </radialGradient>
   </defs>
   <g
@@ -160,7 +160,7 @@
        id="g881">
       <circle
          id="circle863"
-         style="fill:#8cd5ff;fill-rule:evenodd;stroke-width:1.36360002;paint-order:normal"
+         style="fill:#89ffdd;fill-rule:evenodd;stroke-width:1.36360002;paint-order:normal"
          r="7.9373002"
          cy="8.4665003"
          cx="8.4665003" />

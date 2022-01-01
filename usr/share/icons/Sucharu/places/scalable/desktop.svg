@@ -75,19 +75,19 @@
       <stop
          id="stop852"
          offset="0"
-         stop-color="#3689e6" />
+         stop-color="#28bca3" />
       <stop
          id="stop854"
          offset=".066667"
-         stop-color="#64baff" />
+         stop-color="#43d6b5" />
       <stop
          id="stop856"
          offset=".93389"
-         stop-color="#64baff" />
+         stop-color="#43d6b5" />
       <stop
          id="stop858"
          offset="1"
-         stop-color="#3689e6" />
+         stop-color="#28bca3" />
     </linearGradient>
     <style
        type="text/css"
@@ -111,11 +111,11 @@
          id="stop864"
          offset="0"
          stop-opacity="0"
-         stop-color="#3689e6" />
+         stop-color="#28bca3" />
       <stop
          id="stop866"
          offset="1"
-         stop-color="#3689e6" />
+         stop-color="#28bca3" />
     </linearGradient>
   </defs>
   <g
@@ -160,7 +160,7 @@
        width="10.583"
        y="11.906"
        x="3.1749001"
-       style="opacity:0.7;fill:#002e99;stroke-width:0.052588;stroke-opacity:0.95293998" />
+       style="opacity:0.7;fill:#28bca3;stroke-width:0.052588;stroke-opacity:0.95293998" />
     <g
        id="g895"
        transform="matrix(1,0,0,1.1111,9.9734e-5,-312.86)"
@@ -205,7 +205,7 @@
        inkscape:connector-curvature="0" />
     <path
        id="path899"
-       style="opacity:0.7;fill:#002e99;fill-rule:evenodd;stroke-width:3.98399997;paint-order:stroke fill markers"
+       style="opacity:0.7;fill:#28bca3;fill-rule:evenodd;stroke-width:3.98399997;paint-order:stroke fill markers"
        d="M 6.502,7 C 4.0079,7 2,9.0079 2,11.502 v 1 C 2,10.0079 4.0079,8 6.502,8 H 57.498 C 59.9921,8 62,10.0079 62,12.502 v -1 C 62,9.0079 59.9921,7 57.498,7 Z"
        transform="scale(0.26458)"
        inkscape:connector-curvature="0" />

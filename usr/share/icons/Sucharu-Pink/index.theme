@@ -1,0 +1,42 @@
+[Icon Theme]
+Name=Sucharu-Pink
+Inherits=Sucharu,Humanity,hicolor
+Comment=3D Icon theme built for MamoLinux. Uses elements of Various other themes like Mint-Y, Yaru, MacOS-3D-icons.
+
+# KDE/Plasma Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,96,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=48
+PanelSizes=16,22,32,48,64,96,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+FollowsColorScheme=true
+
+KDE-Extensions=.svg
+
+# Directory list
+Directories=places/scalable
+
+###################
+
+[places/scalable]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+###################
+
+[Desktop Entry]
+Name[en]=index.theme

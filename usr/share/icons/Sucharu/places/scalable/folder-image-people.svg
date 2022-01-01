@@ -91,11 +91,11 @@
       <stop
          id="stop856"
          offset="0"
-         stop-color="#64baff" />
+         stop-color="#43d6b5" />
       <stop
          id="stop858"
          offset="1"
-         stop-color="#3689e6" />
+         stop-color="#28bca3" />
     </radialGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -153,11 +153,11 @@
        gradientTransform="matrix(3.1562629,0,0,3.1562629,-10.468371,-468.12796)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#0d52bf"
+         stop-color="#28bca3"
          offset="0"
          id="stop876" />
       <stop
-         stop-color="#002e99"
+         stop-color="#0e9a83"
          offset="1"
          id="stop878" />
     </linearGradient>
@@ -170,19 +170,19 @@
        gradientTransform="matrix(3.1562629,0,0,3.1562629,-10.46849,-468.12796)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#3689e6"
+         stop-color="#28bca3"
          offset="0"
          id="stop881" />
       <stop
-         stop-color="#64baff"
+         stop-color="#43d6b5"
          offset=".083713"
          id="stop883" />
       <stop
-         stop-color="#64baff"
+         stop-color="#43d6b5"
          offset=".91237"
          id="stop885" />
       <stop
-         stop-color="#3689e6"
+         stop-color="#28bca3"
          offset="1"
          id="stop887" />
     </linearGradient>
@@ -195,12 +195,12 @@
        gradientTransform="matrix(2.1673212,0,0,4.8857776,108.75613,-5391.6261)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#3689e6"
+         stop-color="#28bca3"
          stop-opacity="0"
          offset="0"
          id="stop890" />
       <stop
-         stop-color="#3689e6"
+         stop-color="#28bca3"
          offset="1"
          id="stop892" />
     </linearGradient>
@@ -359,16 +359,16 @@
      inkscape:connector-curvature="0" />
   <path
      id="path927"
-     style="color:#000000;text-indent:0;text-transform:none;opacity:0.25;fill:#3689e6;stroke-width:1.14026535"
+     style="color:#000000;text-indent:0;text-transform:none;opacity:0.25;fill:#28bca3;stroke-width:1.14026535"
      d="m 5.3224869,163.12463 0.00398,3.15626 H 194.6927 l -0.004,-3.15626 H 5.310554 Z m 3.1464809,9.46867 H 191.53651 c 0.63786,-0.8743 1.3572,-1.85251 1.8092,-3.15626 H 6.6158652 c 0.5548452,1.34682 1.1050141,2.1122 1.852864,3.15626 z"
      inkscape:connector-curvature="0" />
   <path
      id="path929"
      d="m 21.093423,52.65662 c -2.185692,0 -4.262828,0.442602 -6.152196,1.2391 -1.889367,0.796474 -3.591683,1.945793 -5.0179543,3.371945 -1.426271,1.426271 -2.5817462,3.128587 -3.3781485,5.017955 -0.7965215,1.889368 -1.2328965,3.966503 -1.2328965,6.152195 v 3.156263 c 0,-2.185692 0.4363869,-4.262947 1.2328965,-6.152195 0.7964619,-1.889368 1.9518775,-3.591684 3.3781485,-5.017955 1.4262713,-1.426271 3.1285873,-2.575543 5.0179543,-3.371945 1.889368,-0.796474 3.966504,-1.2391 6.152196,-1.2391 H 178.90657 c 2.18569,0 4.26283,0.442614 6.15219,1.2391 1.88937,0.796462 3.59169,1.945793 5.01796,3.371945 1.42627,1.426271 2.58175,3.128587 3.37815,5.017955 0.7964,1.889368 1.23289,3.966503 1.23289,6.152195 v -3.156263 c 0,-2.185692 -0.43649,-4.262827 -1.23289,-6.152195 -0.79652,-1.889368 -1.952,-3.591684 -3.37815,-5.017955 -1.42627,-1.426271 -3.12859,-2.575543 -5.01796,-3.371945 -1.88936,-0.796462 -3.9665,-1.2391 -6.15219,-1.2391 z"
      inkscape:connector-curvature="0"
-     style="fill:#8cd5ff;stroke-width:0.56745452" />
+     style="fill:#89ffdd;stroke-width:0.56745452" />
   <path
-     style="opacity:0.7;fill:#002e99;fill-opacity:1;fill-rule:evenodd;stroke-width:0.93749648"
+     style="opacity:0.7;fill:#28bca3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.93749648"
      inkscape:connector-curvature="0"
      d="m 141.1726,147.26794 c 0,-13.48401 -22.88148,-20.36336 -32.00801,-22.80929 0,0 0.37821,-7.56044 1.26037,-10.33309 0.88217,-2.77264 1.0079,-5.92281 1.38618,-6.80491 0.37828,-0.88209 4.83345,-4.91482 5.08592,-8.69509 -0.061,-2.25627 -0.50674,-2.789899 -1.62009,-2.789899 V 84.117896 c 0,-6.325945 -9.22309,-11.849956 -15.2765,-11.849956 -6.054073,0 -15.276507,5.524198 -15.276507,11.849956 v 11.717765 c -1.114308,0 -1.559994,0.534479 -1.620088,2.789899 0.25245,3.78017 4.706795,7.81291 5.085919,8.69509 0.377286,0.88217 0.503042,4.0318 1.385245,6.80491 0.882175,2.77228 1.26037,10.33309 1.26037,10.33309 -9.126903,2.44583 -32.008006,9.3248 -32.008006,22.80929 z"
      id="path1038" />
