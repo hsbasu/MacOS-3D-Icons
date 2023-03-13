@@ -1,3 +1,13 @@
+mamolinux-icons (1.0.2ubuntu1) stable; urgency=medium
+
+  * Add Templates and bitmaps rendering code from Yaru
+  * Add workflow to update mamolinux/stable branch
+  * Fix conflict with Sucharu new icon theme (#4)
+    - Rename Sucharu to Sucharu-Alt
+    - Rename Sucharu-Dark to Sucharu-Dark-Alt
+
+ -- Himadri Sekhar Basu <hsb10@iitbbs.ac.in>  Mon, 13 Mar 2023 19:56:48 +0530
+
 mamolinux-icons (1.0.2) stable; urgency=medium
 
   * Replace symlinks with actual directories
